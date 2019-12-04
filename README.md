@@ -6,7 +6,7 @@ I hope is will be a clear introduction for mathematician (maybe even others and 
 ## Status.
 Under construction.
 
-# Sections.
+## Sections.
 + Helmholtz decomposition
 
 
