@@ -1,7 +1,7 @@
-# Fluid-Simulation-From-Scratch-.
+# Fluid-Simulation Animation -From-Scratch-.
 Numerical fluid simulation from scratch by solving Navier-Stokes without using fluid simulation specialized external libraries.
 
-I hope is will be a clear introduction for mathematician (maybe even others and to me) to fluid simulation from sratch.
+I hope is will be a clear introduction for mathematician (maybe even others and to me) to make fluid animations from sratch.
 
 ## Status.
 Under construction.
@@ -9,5 +9,7 @@ Under construction.
 ## Sections.
 + Helmholtz decomposition
 
+## Methadology.
+To be written later.
 
 ## Helmholtz decomposition.
