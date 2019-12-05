@@ -12,4 +12,7 @@ Under construction.
 ## Methadology.
 To be written later.
 
-## Helmholtz decomposition.
+## Helmholtz decomposition and periodic Poisson equation.
+
+
+## Advection.
