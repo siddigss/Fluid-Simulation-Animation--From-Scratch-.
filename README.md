@@ -18,6 +18,11 @@ To be written later.
 ## Helmholtz decomposition and periodic Poisson equation
 
 
+
+## Difusion equation
+
+
+
 ## Advection
 
 <p align="center">
@@ -27,11 +32,26 @@ To be written later.
 
 ## Stable Fluids
 
-Blows up...
 <p align="center">
-  <image src="https://imgur.com/2cd2hBo.gif"> <image src="https://imgur.com/qrM7LpT.png" width= 320 style="position: relative; top:-200px">
+  <image src="https://imgur.com/9Ajt11I.gif">
 </p>
+<p align="center">
+  <image src="https://imgur.com/FmMNF9k.gif">
+</p>
+<p align="center">
+  <image src="https://imgur.com/QPHvgc3.gif">
+</p>
+  
 
 ## Stability and Accuracy
 
 
+## Behind the Scenes Failures
+
+<p align="center">
+  <image src="https://imgur.com/2cd2hBo.gif">
+</p>
+  
+<p align="center">
+  <image src="https://imgur.com/2cd2hBo.gif">
+</p>
