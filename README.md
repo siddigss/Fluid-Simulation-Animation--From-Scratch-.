@@ -46,7 +46,7 @@ To be written later.
 ## Stability and Accuracy
 
 
-## Behind the Scenes Failures
+## Fancy Behind the Scenes Failures
 
 <p align="center">
   <image src="https://imgur.com/2cd2hBo.gif">
