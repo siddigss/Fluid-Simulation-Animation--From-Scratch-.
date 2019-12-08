@@ -53,5 +53,5 @@ To be written later.
 </p>
   
 <p align="center">
-  <image src="https://imgur.com/2cd2hBo.gif">
+  <image src="https://imgur.com/7ySYOO4.gif">
 </p>
