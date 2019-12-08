@@ -18,7 +18,7 @@ To be written later.
 ## Advection.
 
 <p align="center">
-  <image src="https://imgur.com/qVx7Qx4.gif"> <image src="https://imgur.com/o3fsWgP.png" width= 250 style="top:-20px">
+  <image src="https://imgur.com/qVx7Qx4.gif"> <image src="https://imgur.com/o3fsWgP.png" width= 250 style="top:-200px">
 </p>
 
 
