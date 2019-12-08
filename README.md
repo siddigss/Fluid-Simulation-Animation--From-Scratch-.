@@ -18,16 +18,23 @@ To be written later.
 ## Advection.
 
 <style>
- .lights_off {
-  position:absolute;
+.controls{
+position: relative;
+}
+.lights_off {
   max-width: 8%;
   min-width: none;
-  bottom:20%;
-  z-index:99
-  right: -10px;
-
+  overflow: hidden;
 }
- </style>
+.image_container{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+}
+</style>
  
 <div class="controls">
   <center>
@@ -36,6 +43,7 @@ To be written later.
   
   <img src="https://imgur.com/o3fsWgP.png" class="lights_off" alt="light off" width=250px> 
 </div>
+
 
 
 <p align="center">
