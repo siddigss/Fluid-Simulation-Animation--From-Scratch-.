@@ -8,18 +8,30 @@ Under construction.
 
 ## Sections.
 + Helmholtz decomposition
++ Advection
++ Stable Fluids
++ Stability and Accuracy
 
 ## Methadology.
 To be written later.
 
-## Helmholtz decomposition and periodic Poisson equation.
+## Helmholtz decomposition and periodic Poisson equation
 
 
-## Advection.
+## Advection
 
 <p align="center">
   <image src="https://imgur.com/qVx7Qx4.gif"> <image src="https://imgur.com/o3fsWgP.png" width= 320 style="position: relative; top:-200px">
 </p>
 
 
-## Fluid Dynamics.
+## Stable Fluids
+
+Blows up...
+<p align="center">
+  <image src="https://imgur.com/2cd2hBo.gif"> <image src="https://imgur.com/qrM7LpT.png" width= 320 style="position: relative; top:-200px">
+</p>
+
+## Stability and Accuracy
+
+
