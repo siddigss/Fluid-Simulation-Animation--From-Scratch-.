@@ -18,36 +18,11 @@ To be written later.
 ## Advection.
 
 <style>
-.controls{
-position: relative;
-}
-.lights_off {
-  max-width: 8%;
-  min-width: none;
-  overflow: hidden;
-}
-.image_container{
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  top: 0;
-}
+  .imagestyle1 { position: relative; top: -3px; }
 </style>
- 
-<div class="controls">
-  <center>
-    <img src = "https://imgur.com/qVx7Qx4.gif" id = "rcorners"  alt="">
-  </center>
-  
-  <img src="https://imgur.com/o3fsWgP.png" class="lights_off" alt="light off" width=250px> 
-</div>
-
-
 
 <p align="center">
-  <image src="https://imgur.com/qVx7Qx4.gif"> <image src="https://imgur.com/o3fsWgP.png" width=250px>
+  <image src="https://imgur.com/qVx7Qx4.gif" class = "imagestyle1"> <image src="https://imgur.com/o3fsWgP.png" width=250px class="imagestyle1">
 </p>
 
 
