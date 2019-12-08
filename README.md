@@ -22,7 +22,7 @@ To be written later.
 </style>
 
 <p align="center">
-  <image src="https://imgur.com/qVx7Qx4.gif"> <image src="https://imgur.com/o3fsWgP.png" width=250px class="imagestyle1">
+  <image src="https://imgur.com/qVx7Qx4.gif"> <image src="https://imgur.com/o3fsWgP.png" width=250px class=imagestyle1>
 </p>
 
 
