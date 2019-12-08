@@ -18,7 +18,7 @@ To be written later.
 ## Advection.
 
 <style>
-  .imagestyle1 { position: relative; top: -50x; }
+  #imagestyle1 { position: relative; top: -50x; }
 </style>
 
 <p align="center">
