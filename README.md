@@ -34,7 +34,7 @@ To be written later.
     <img src = "https://imgur.com/qVx7Qx4.gif" id = "rcorners"  alt="">
   </center>
   
-  <img src="https://imgur.com/o3fsWgP.png" class="lights_off" alt="light off"> 
+  <img src="https://imgur.com/o3fsWgP.png" class="lights_off" alt="light off" width=250px> 
 </div>
 
 
