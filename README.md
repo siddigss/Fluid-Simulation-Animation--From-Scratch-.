@@ -18,11 +18,11 @@ To be written later.
 ## Advection.
 
 <style>
-  .imagestyle1 { position: relative; top: -3px; }
+  .imagestyle1 { position: relative; top: -10x; }
 </style>
 
 <p align="center">
-  <image src="https://imgur.com/qVx7Qx4.gif" class = "imagestyle1"> <image src="https://imgur.com/o3fsWgP.png" width=250px class="imagestyle1">
+  <image src="https://imgur.com/qVx7Qx4.gif"> <image src="https://imgur.com/o3fsWgP.png" width=250px class="imagestyle1">
 </p>
 
 
